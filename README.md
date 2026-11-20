@@ -118,3 +118,12 @@ Platform: Web-based
 Made for Learning, Innovation & Exploration.
 
 NeuroSight AI – Explore Human Anatomy Through Technology.
+interactive web app that shows human anatomy in X-Ray style.
+
+
+
+## 👨‍💻 Made By
+Ghulam Muhammad
+
+## 🔗 Live Demo
+https://neuro-sight-ai.netlify.app/
